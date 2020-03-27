@@ -3,32 +3,7 @@ var data = [
      handleName:"Drkmaster",
      Contribution:"113" ,
      Year:"SE"  
-    },
-    {rank:"2",
-     handleName:"Someone",
-     Contribution:"325",
-     Year:"TE"
-    },
-    {rank:"3",
-    handleName:"Someone",
-    Contribution:"325",
-    Year:"SE"
-   },
-   {rank:"4",
-   handleName:"Someone",
-   Contribution:"325",
-   Year:"FE"
-  },
-  {rank:"5",
-  handleName:"Someone",
-  Contribution:"325",
-  Year:"FE"
- },
- {rank:"6",
- handleName:"Someone",
- Contribution:"325",
- Year:"SE"
-}
+    }
 
 ];
 
